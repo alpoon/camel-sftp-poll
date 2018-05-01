@@ -1,0 +1,8 @@
+
+sftp:
+  server:
+  username:
+  password:
+  privateKeyUri:
+  pollDir:
+  pollDelay: 5s
